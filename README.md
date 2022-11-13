@@ -1,5 +1,5 @@
 # TrueTravel
-Um projeto de gerenciamento de viagems que criei quando eu peimeiro entrei em contato com outsystems, e que estou melhorando desde então.
+Um projeto de gerenciamento de viagens que criei quando eu peimeiro entrei em contato com outsystems, e que estou melhorando desde então.
 
 Nesse projeto um funcionario utiliza a aplicação para criar uma requisição de viagem de um lugar a outro.
 
