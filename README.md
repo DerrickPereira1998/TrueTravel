@@ -15,4 +15,4 @@ João Carlos (Traveler) -- Username: jcarlos -- Password : derrick01
 Olavo Nascimento (Facilitador) -- Username: onasci -- Password : derrick02  
 Maria Oliveira (gerente) -- Username: moliveira -- Password: derrick03  
 
-O projeto está online disponivel pelo link https://personal-9b7bfgu4.outsystemscloud.com/TrueTravel/Login
+O projeto está online disponivel pelo link https://personal-9b7bfgu4.outsystemscloud.com/TrueTravel
